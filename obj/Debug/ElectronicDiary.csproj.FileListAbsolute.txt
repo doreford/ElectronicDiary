@@ -1,0 +1,10 @@
+C:\Users\doreford\source\repos\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+C:\Users\doreford\source\repos\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+C:\Users\doreford\source\repos\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.AssemblyReference.cache
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.FormLogin.resources
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.pdb

@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace ElectronicDiary
 {
-    public partial class FormSchedule : Form
+    public partial class FormForgotPassword : Form
     {
-        public FormSchedule()
+        public FormForgotPassword()
         {
             InitializeComponent();
-            this.StartPosition = FormStartPosition.CenterScreen;
-        }
-
-        private void FormSchedule_Load(object sender, EventArgs e)
-        {
-          
-
         }
     }
 }

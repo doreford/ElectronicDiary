@@ -46,12 +46,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EJournalDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EJournalDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EJournalDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EJournalDBDataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="ElectronicDiary.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAttendance.Designer.cs">
+      <DependentUpon>FormAttendance.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
@@ -70,6 +86,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormAttendance.resx">
+      <DependentUpon>FormAttendance.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +104,28 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="EJournalDBDataSet.xsc">
+      <DependentUpon>EJournalDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EJournalDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EJournalDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EJournalDBDataSet.xss">
+      <DependentUpon>EJournalDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EJournalDBDataSet1.xsc">
+      <DependentUpon>EJournalDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="EJournalDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EJournalDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EJournalDBDataSet1.xss">
+      <DependentUpon>EJournalDBDataSet1.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

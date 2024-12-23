@@ -10,24 +10,12 @@ using System.Windows.Forms;
 
 namespace ElectronicDiary
 {
-    public partial class FormMain : Form
+    public partial class FormSchedule : Form
     {
-        public FormMain()
+        public FormSchedule()
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
         }
-
-        private void FormMain_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-           
-        }
-
-       
     }
 }

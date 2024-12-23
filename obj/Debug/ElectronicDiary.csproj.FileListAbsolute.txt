@@ -8,3 +8,5 @@ C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.
 C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
 C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.exe
 C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.FormMain.resources
+C:\Users\doreford\source\repos\ElectronicDiary\obj\Debug\ElectronicDiary.FormSchedule.resources
